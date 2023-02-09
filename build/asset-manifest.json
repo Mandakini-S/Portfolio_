@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71adf3be.css",
+    "main.js": "/static/js/main.49089caf.js",
+    "static/js/787.67f67f44.chunk.js": "/static/js/787.67f67f44.chunk.js",
+    "static/media/sanduk.jpg": "/static/media/sanduk.6078cac86f03d4717d0d.jpg",
+    "index.html": "/index.html",
+    "main.71adf3be.css.map": "/static/css/main.71adf3be.css.map",
+    "main.49089caf.js.map": "/static/js/main.49089caf.js.map",
+    "787.67f67f44.chunk.js.map": "/static/js/787.67f67f44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71adf3be.css",
+    "static/js/main.49089caf.js"
+  ]
+}
